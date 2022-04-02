@@ -198,6 +198,11 @@ span{
     width: 40%;
 }
 
+iframe{
+    margin-left:25%;
+    margin-right: 90%;
+}
+
 footer {
     display: flex;
     justify-content: center;
